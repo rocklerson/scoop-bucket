@@ -7,7 +7,7 @@
     "url": "https://github.com/Anxcye/anx-reader/blob/main/LICENSE"
   },
   "url": "https://github.com/Anxcye/anx-reader/releases/download/v1.4.3/Anx-Reader-windows-1.4.3.zip",
-  "hash": "478A51BD4F088EDF88C75B066939E7BC74969CA965A5BC32F9B2B9309B633513",
+  "hash": "ed57b039411832f9caca4387d97f5116ab25d659aa8bf9bef2835c666f565569",
   "extract_dir": "AnxReader",
   "bin": [
     "AnxReader.exe"
