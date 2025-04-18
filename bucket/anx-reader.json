@@ -8,17 +8,17 @@
   },
   "url": "https://github.com/Anxcye/anx-reader/releases/download/v1.4.3/Anx-Reader-windows-1.4.3.zip",
   "hash": "ed57b039411832f9caca4387d97f5116ab25d659aa8bf9bef2835c666f565569",
-  "extract_dir": "AnxReader",
+  "extract_dir": "anx_reader",
   "bin": [
-    "AnxReader.exe"
+    "anx_reader.exe"
   ],
   "persist": [
     "config.ini"
   ],
   "shortcuts": [
     [
-      "AnxReader.exe",
-      "AnxReader"
+      "anx_reader.exe",
+      "anx_reader"
     ]
   ],
   "checkver": {
