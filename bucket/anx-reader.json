@@ -1,0 +1,36 @@
+{
+  "version": "1.4.3",
+  "homepage": "https://github.com/Anxcye/anx-reader",
+  "description": "跨平台电子书阅读器",
+  "license": {
+    "identifier": "AGPL-3.0",
+    "url": "https://github.com/Anxcye/anx-reader/blob/main/LICENSE"
+  },
+  "url": "https://github.com/Anxcye/anx-reader/releases/download/v1.4.3/Anx-Reader-windows-1.4.3.zip",
+  "hash": "478A51BD4F088EDF88C75B066939E7BC74969CA965A5BC32F9B2B9309B633513",
+  "extract_dir": "AnxReader",
+  "bin": [
+    "AnxReader.exe"
+  ],
+  "persist": [
+    "config.ini"
+  ],
+  "shortcuts": [
+    [
+      "AnxReader.exe",
+      "AnxReader"
+    ]
+  ],
+  "checkver": {
+    "url": "https://api.github.com/repos/Anxcye/anx-reader/releases",
+    "jsonpath": "$[0].tag_name",
+    "regex": "v([\\d.]+)"
+  },
+  "autoupdate": {
+    "url": "https://github.com/Anxcye/anx-reader/releases/download/v$version/Anx-Reader-windows-$version.zip"
+  },
+  "notes": [
+    "使用前请务必阅读 `readme.txt`",
+    "config.ini.original 是最新的配置文件"
+  ]
+}
