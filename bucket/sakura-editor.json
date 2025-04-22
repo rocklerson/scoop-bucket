@@ -1,0 +1,16 @@
+{
+    "version": "2.4.2",
+    "license": "zlib",
+    "url": "https://github.com/sakura-editor/sakura/releases/download/v2.4.2/sakura-tag-v2.4.2-build4203-a3e63915b-Win32-Release-Exe.zip",
+    "bin": "sakura.exe",
+    "shortcuts": [
+        [
+            "sakura.exe",
+            "サクラエディタ"
+        ]
+    ],
+    "hash": "91f2eae7fe3b2417a47ee678463012e030063cf2694fd6c925fbaebc575dd7e8",
+    "checkver": {
+        "github": "https://github.com/sakura-editor/sakura"
+    }
+}
