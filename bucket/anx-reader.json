@@ -1,13 +1,13 @@
 {
-  "version": "1.6.1",
+  "version": "1.8.1",
   "homepage": "https://github.com/Anxcye/anx-reader",
   "description": "跨平台电子书阅读器",
   "license": {
     "identifier": "AGPL-3.0",
     "url": "https://github.com/Anxcye/anx-reader/blob/main/LICENSE"
   },
-  "url": "https://github.com/Anxcye/anx-reader/releases/download/v1.6.1/Anx-Reader-windows-1.6.1.zip",
-  "hash": "5c3b8338e2e162f741ca29bdb7675979b1b36aa276e011dd23ba326b1fecee57",
+  "url": "https://github.com/Anxcye/anx-reader/releases/download/v1.8.1/Anx-Reader-windows-1.8.1.zip",
+  "hash": "f0ee249b1ae107a6d62ecf3f4da45e215814c45efe9170cd0a9f5577d217ffc9",
   "bin": [
     "anx_reader.exe"
   ],
