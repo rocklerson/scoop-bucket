@@ -1,13 +1,13 @@
 {
-  "version": "3.8.0",
+  "version": "3.8.1",
   "homepage": "https://github.com/farion1231/cc-switch",
   "description": "跨平台桌面应用，用于管理 Claude Code、Codex 和 Gemini CLI 的配置",
   "license": {
     "identifier": "MIT",
     "url": "https://github.com/farion1231/cc-switch/blob/main/LICENSE"
   },
-  "url": "https://github.com/farion1231/cc-switch/releases/download/v3.8.0/CC-Switch-v3.8.0-Windows-Portable.zip",
-  "hash": "417c73ad49f3b182d4ad01fc314af3be04c14ede6736ce2641af2380ada38339",
+  "url": "https://github.com/farion1231/cc-switch/releases/download/v3.8.1/CC-Switch-v3.8.1-Windows-Portable.zip",
+  "hash": "db30f288fe365e6df62815fd6f943c7a4039dab62e5720dbe79321c26d792d64",
   "shortcuts": [
     [
       "CC-Switch.exe",
